@@ -1,4 +1,4 @@
-<h3 align="center">Statemanagement with ToDos</h3>
+<h3 align="center">State Management with ToDos</h3>
 
   <p align="center">
      An exercise in how to modular-ize a simple project and obtain better understanding of dependancies and how to import necessary functions from other files. 
